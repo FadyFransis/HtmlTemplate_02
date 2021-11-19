@@ -21,6 +21,7 @@ html{
 body
 {
     font-family: 'Open Sans', sans-serif;
+    background-color: black;
 }
 
 ul
@@ -73,3 +74,11 @@ ul
     }
 }
 /* End Global Variables */
+/* Start header */
+header .container
+{
+    display: flex;
+    justify-content: center;
+    
+}
+/* End header */
